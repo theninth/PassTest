@@ -16,7 +16,7 @@ Usage
 
 ### Initialize
 
-    >>> from PassTest import Hashes
+    >>> from passtest import Hashes
     >>> hashes = Hashes()
 
 ### Create a few entries in the csv file
